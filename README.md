@@ -64,7 +64,7 @@ More details can be found in `Tests` section below.
 Because the -t 1 tests rely on how the random states are generated, you may have a correct implementation that fails it. Still, the test should be valuable for you to debug. We will mostly check the -t 2 tests to see if you are close to getting things right. As usual, the overall correctness is determined by manual grading, and the tests are just heuristics. 
 
 
-## Optional: A Competition
+## Optional: Competition
 
 The game gives you an opportunity for testing out many approaches that have been covered in the class. For instance, what kind of heuristic evaluation function can you use to improve the performance? Can you run some form of reinforcement learning to automatically come up with value estimates that can help the MCTS agent? 
 
